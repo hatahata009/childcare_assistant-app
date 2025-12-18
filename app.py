@@ -36,7 +36,7 @@ CHARACTERS = {
         "color": "#FFEDD5", # bg-orange-100
         "text_color": "#EA580C", # text-orange-600
         "btn_color": "#FB923C", # bg-orange-400
-        "image": "レシピ作成.png",
+        "image": "recipe.png",
         "description": "「今日のゴハン何にする？君が笑顔になれる料理、作るよ♡」",
         "system_prompt": """あなたは「カイト」という名前の、キラキラした明るい料理研究家（シェフ）です。
         ユーザーは毎日の献立に悩むお母さんです。
