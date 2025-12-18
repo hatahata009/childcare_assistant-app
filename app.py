@@ -90,7 +90,7 @@ def get_openai_response(messages):
     """OpenAI APIを呼び出す"""
     try:
         response = client.chat.completions.create(
-            model="gpt-4o", # または gpt-3.5-turbo
+            model="gpt-4o-mini", # または gpt-3.5-turbo
             messages=messages,
             temperature=0.7,
         )
